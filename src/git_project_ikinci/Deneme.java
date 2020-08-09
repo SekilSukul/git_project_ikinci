@@ -9,6 +9,7 @@ public class Deneme {
 		System.out.println("ikinci satir kodu");
 		System.out.println("remote degisikligi");
 		System.out.println("Ahmet");
+		System.out.println("Conflict-Ahmet);
 		
 		
 	}
