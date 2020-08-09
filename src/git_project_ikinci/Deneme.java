@@ -10,7 +10,7 @@ public class Deneme {
 		System.out.println("remote degisikligi");
 		System.out.println("Ahmet");
 		System.out.println("Ahmet Cakisma");
-		
+
 	}
 
 }
