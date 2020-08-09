@@ -8,6 +8,7 @@ public class Deneme {
 		System.out.println("ikinci git projem");
 		System.out.println("ikinci satir kodu");
 		System.out.println("remote degisikligi");
+		System.out.println("Ahmet");
 		
 		
 	}
